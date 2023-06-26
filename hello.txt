@@ -1,2 +1,3 @@
 Hey,I'm Adithya
 Ni etha , njan
+I'm learning git push and pull
